@@ -1,2 +1,2 @@
-# MigueMartelo.git.io
+# MigueMartelo.github.io
 Proyecto con Next.JS y SSR
